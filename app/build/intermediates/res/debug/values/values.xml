@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/wangzhuo/GitHub/Mapping/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">APA4AD_Ch13_Mapping</string>
+    <string name="hello">Hello World, MyActivity!</string>
+</resources>
